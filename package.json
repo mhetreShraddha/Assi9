@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "node-sass": "^7.0.1",
+    "react-bootstrap": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
